@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Belajar andorid</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Selamat_Datang_di_Tutorial_Memasak">Selamat Datang di Tutorial Memasak</string>
+    <string name="Menu">Menu</string>
+    <string name="Lihat_Profil">Lihat Profil</string>
+    <string name="Pengaturan_Akun">Pengaturan Akun</string>
+    <string name="Cari_Resep">Cari Resep</string>
+    <string name="Cari_Video">Cari Video</string>
+    <string name="Buat_Resep_Baru">Buat Resep Baru</string>
+    <string name="Keluar">Keluar</string>
+</resources>
